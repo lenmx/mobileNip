@@ -1,0 +1,1 @@
+xorm reverse mysql "root:password@tcp(xxx.xxx.xxx:port)/dbname" templates/goxorm
